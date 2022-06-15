@@ -146,3 +146,12 @@ Some of Object Oriented Design concepts are:
 The main goal for the object oriented design is to make sure that you truly understand classes, interfaces and then transform them into comprehensible object design. This also tells the interviewer that you clearly understand the class diagrams, activity diagrams or case diagrams.
 
 Companies always hire a candidate which is able to mold himself/herself according to the situation, atmosphere and place, who is always passionate about their product and the culture of the company.
+
+If you want more examples....
+
+[Web Application](https://github.com/myplayareas/myappflask)
+
+[Data Science](https://github.com/mining-software-repositories/treinamento)
+
+[Cloud Computing](https://github.com/topicos-sistemas-distribuidos/systagram)
+
