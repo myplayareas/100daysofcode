@@ -3,7 +3,7 @@
 ## 1. Day 1 to Day 10
 
 1. Try to solve on your won first even if it takes couple of more hours.
-2. Choose a programming language in which you feel most comfortable. I know its difficult but take some time(4/5 days) for it. Its cool.
+2. Choose a programming language, for example [Python](https://www.python.org/),  in which you feel most comfortable. I know its difficult but take some time(4/5 days) for it. Its cool.
 3. Stretch yourself for a few problems and then go for a hint, but always be aware of the time you are spending on a specific problem.
 
 - Reading/Writing from/to files.
