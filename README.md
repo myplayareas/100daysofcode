@@ -12,11 +12,13 @@
 - 2D array implementation and how to use it.
 - Basics things of language such as in C/C++ handling null-terminated strings. Command line interfaces and manipulations from CSV or text files.
 
-## 2. Day 11 to Day 20
+## 2. Day 11 to Day 20 (Data Structures and Algorithms)
 
 Now is the most important part i.e. the Data Structures and Algorithms which technically form the basics of solving any type of problem.
 
 All the topics also include their respective links. You can perform their execution in your own code editor. If you know these topics already, get down directly to solve their medium or hard problems, you will learn fast.
+
+You can see good examples in [geeksforgeeks](https://www.geeksforgeeks.org), more specificatly about [Data Structures](https://www.geeksforgeeks.org/data-structures/?ref=shm) and [Algorithms](https://www.geeksforgeeks.org/fundamentals-of-algorithms/?ref=shm)
 
 1. Strings
 2. Arrays
